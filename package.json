@@ -1,0 +1,25 @@
+{
+  "name": "mavis",
+  "version": "1.0.0",
+  "description": "Mobile-first page flow generator",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Build process handled by GitHub Actions'",
+    "lint": "echo 'No linting configured yet'"
+  },
+  "keywords": [
+    "page-flow",
+    "design",
+    "generator",
+    "mobile"
+  ],
+  "author": "MAVIS Contributors",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/android": "^5.0.0"
+  },
+  "devDependencies": {}
+}
