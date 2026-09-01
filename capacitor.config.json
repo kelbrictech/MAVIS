@@ -1,0 +1,13 @@
+{
+  "appId": "com.mavis.pagegen",
+  "appName": "MAVIS",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
