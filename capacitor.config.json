@@ -1,7 +1,7 @@
 {
   "appId": "com.mavis.pagegen",
   "appName": "MAVIS",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   },
